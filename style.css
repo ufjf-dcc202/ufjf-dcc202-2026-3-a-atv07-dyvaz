@@ -1,0 +1,10 @@
+em{
+    color: cadetblue; text-decoration: double;
+}
+code{
+color: forestgreen; text-decoration: underline;
+}
+body > main > ol > li:nth-child(2){
+    color:chartreuse;
+    background-color: darkblue;
+}
